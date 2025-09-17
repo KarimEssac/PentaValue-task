@@ -22,3 +22,6 @@ Table Orders:-
 
 POST through API: http://localhost:8000/api/orders
 GET through API: http://localhost:8000/api/analytics
+
+
+Please open master branch to view the entire project
